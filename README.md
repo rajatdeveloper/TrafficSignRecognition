@@ -18,9 +18,6 @@ Step 3. Loading the traffic sign classification model(trained_model.h5) and sign
 Step 4. making predictions on the extracted image.
 
 ## Note
-In order for object detection to work, you also need to download Pretrained weights for object detection from [Google drive]( https://drive.google.com/open?id=1emIiAYp4tLYG0cmI8Tm2lOX5Qd47F5-8)
-
-You can have a look at colab notebook here
-https://colab.research.google.com/drive/1lVRRThKluJuEJ0UX2UxGByORsVe1b9qU#scrollTo=cFU8IAEiJk2T
+In order for object detection to work, you also need to download Pretrained weights for object detection.
 
 ### To get the Information about Traffic sign classification (CNN model and augmentation techniques used), refer to Classification folder in this repository.
